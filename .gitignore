@@ -1,0 +1,20 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Build files
+build/
+dist/
+*.spec
+
+# Local JARVIS data
+*.db
+jarvis_conversations.json
+
+# VS Code
+.vscode/
